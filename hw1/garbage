@@ -1,0 +1,8 @@
+	//char* shell = getenv("SHELL");
+	//printf("%s\n", shell);
+
+	//char str[100] = {};
+	//strcpy(str, "ls ");
+	//strcat(str, dir);
+	//strcat(str, >)
+	//execlp(shell, shell, argv[1], NULL);

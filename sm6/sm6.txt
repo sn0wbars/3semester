@@ -1,0 +1,6 @@
+Семафоры
+A(semafor,n) +
+D(semafor,n) - delay до semafor == n 
+Z(semafor) while(!0)
+
+semget();
